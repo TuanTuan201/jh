@@ -50,6 +50,28 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   - Ngrok (With or without hotspot)
   - Cloudflared (Alternative of Ngrok)
 
+
+### Installation
+
+- Just, Clone this repository -
+```
+$ git clone git://github.com/htr-tech/zphisher.git
+```
+
+- Change to cloned directory and run `zphisher.sh` -
+```
+$ cd zphisher
+$ bash zphisher.sh
+```
+
+- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+
+### Run on Docker
+```
+$ docker pull htrtech/zphisher
+$ docker run --rm -it htrtech/zphisher
+```
+
 ### Dependencies
 
 **`Zphisher`** requires following programs to run properly - 
@@ -78,6 +100,3 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - [**TheLinuxChoice**](https://twitter.com/linux_choice)
 - [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
 - [**Moises Tapia**](https://github.com/MoisesTapia)
-
-
-
