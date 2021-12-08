@@ -59,7 +59,7 @@ Nó chỉ thể hiện "cách thức hoạt động của lừa đảo". <b> B�
 
 > Tất cả các phần phụ thuộc sẽ được cài đặt tự động khi bạn chạy `Zphisher` lần đầu tiên.
 
-> Nền tảng được hỗ trợ: ** `Termux` **, **` Ubuntu / Debian / Kali / Parrot` **, ** `Arch Linux / Manjaro` **, **` Fedora` **
+> Nền tảng được hỗ trợ: `Termux`, `Ubuntu / Debian / Kali / Parrot`, `Arch Linux / Manjaro`, ` Fedora`
 ##
 
 <h3 align="center">
