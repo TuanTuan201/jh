@@ -23,67 +23,43 @@ bash <( curl -Ls https://raw.githubusercontent.com/DauDau432/hack-web/main/tool-
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
-<p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
+<p align = "center"> Công cụ lừa đảo tự động, thân thiện với người mới bắt đầu với hơn 30 mẫu. </p>
 
 ##
 
-<h3><p align="center">Disclaimer</p></h3>
+<h3> <p align = "center"> Tuyên bố từ chối trách nhiệm </p> </h3>
 
-<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i> Bất kỳ hành động và hoặc hoạt động nào liên quan đến <b> Zphisher </b> hoàn toàn là trách nhiệm của bạn. Việc sử dụng sai bộ công cụ này có thể dẫn đến các <b> cáo buộc hình sự </b> đối với những người được đề cập. <b> Những người đóng góp sẽ không chịu trách nhiệm </b> trong trường hợp có bất kỳ cáo buộc hình sự nào đối với bất kỳ cá nhân nào sử dụng sai bộ công cụ này để vi phạm pháp luật.
 
-<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
+<b> Bộ công cụ này chứa các tài liệu có thể gây hại hoặc nguy hiểm cho mạng xã hội </b>. Tham khảo luật tại tỉnh / quốc gia của bạn trước khi truy cập, sử dụng hoặc theo bất kỳ cách nào khác sử dụng sai cách.
 
-<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
+<b> Công cụ này chỉ được tạo ra cho mục đích giáo dục </b>. Đừng cố vi phạm pháp luật với bất cứ thứ gì có ở đây. <b> Nếu đây là ý định của bạn, thì Hãy biến khỏi đây ngay lập tức!
 
-It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
+Nó chỉ thể hiện "cách thức hoạt động của lừa đảo". <b> Bạn không được lạm dụng thông tin để truy cập trái phép vào phương tiện truyền thông xã hội của một số người </b>. Tuy nhiên, bạn có thể thử điều này với rủi ro của riêng mình. </i>
 
 ##
 
-### Features
+### Đặc trưng
 
-- Latest and updated login pages.
-- Mask URL support 
-- Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
-- Multiple tunneling options
-  - Localhost
-  - Ngrok (With or without hotspot)
-  - Cloudflared (Alternative of Ngrok)
+- Các trang đăng nhập mới nhất và được cập nhật.
+- Hỗ trợ URL mặt nạ
+- Thân thiện với người mới bắt đầu
+- Hỗ trợ Docker (thanh toán chi nhánh `docker-inherit`)
+- Nhiều tùy chọn đào hầm
+   - Máy chủ cục bộ
+   - Ngrok (Có hoặc không có điểm phát sóng)
+   - Cloudflared (Thay thế cho Ngrok)
 
-
-### Installation
-
-- Just, Clone this repository -
-```
-$ git clone git://github.com/htr-tech/zphisher.git
-```
-
-- Change to cloned directory and run `zphisher.sh` -
-```
-$ cd zphisher
-$ bash zphisher.sh
-```
-
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
-
-### Run on Docker
-```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
-
-### Dependencies
-
-**`Zphisher`** requires following programs to run properly - 
+### Sự phụ thuộc
+**`Zphisher`** yêu cầu các chương trình sau chạy đúng cách - 
 - `php`
 - `wget`
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> Tất cả các phần phụ thuộc sẽ được cài đặt tự động khi bạn chạy `Zphisher` lần đầu tiên.
 
-> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
-
+> Nền tảng được hỗ trợ: ** `Termux` **, **` Ubuntu / Debian / Kali / Parrot` **, ** `Arch Linux / Manjaro` **, **` Fedora` **
 ##
 
 <h3 align="center">
@@ -93,7 +69,7 @@ $ docker run --rm -it htrtech/zphisher
 <img src=".imgs/wf.gif"/>
 </p>
 
-### Special Thanks :
+### Cảm tạ :
 
 - [**Aditya Shakya**](https://github.com/adi1090x)
 - [**1RaY-1**](https://github.com/1RaY-1)
