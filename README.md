@@ -6,7 +6,7 @@ bash <( curl -Ls https://raw.githubusercontent.com/DauDau432/hack-web/main/tool-
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
+  <img src="https://github.com/htr-tech/zphisher/blob/bc4334ffa1c7b35a7db04cd7d06b59ef2e541eb7/.imgs/logo.png">
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Nó chỉ thể hiện "cách thức hoạt động của lừa đảo". <b> B�
 :: Workflow ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
+<img src="https://github.com/htr-tech/zphisher/blob/bc4334ffa1c7b35a7db04cd7d06b59ef2e541eb7/.imgs/wf.gif>
 </p>
 
 ### Cảm tạ :
