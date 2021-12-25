@@ -63,10 +63,11 @@ Nó chỉ thể hiện "cách thức hoạt động của lừa đảo". <b> B�
 ##
 
 <h3 align="center">
-:: Workflow ::
+:: Quy trình làm việc ::
 </h3>
+  
 <p align="center">
-<img src="https://github.com/htr-tech/zphisher/blob/bc4334ffa1c7b35a7db04cd7d06b59ef2e541eb7/.imgs/wf.gif>
+  <img src="https://github.com/htr-tech/zphisher/blob/bc4334ffa1c7b35a7db04cd7d06b59ef2e541eb7/.imgs/wf.gif">
 </p>
 
 ### Cảm tạ :
