@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 sudo apt update # cập nhật vps
+suod apt-get upgrade
+sudo apt install wget
+sudo apt install curl
 sudo apt install git php openssh-server curl -y # tải thư viện cần thiết
 git clone https://github.com/htr-tech/zphisher # tải kho lưu trữ của zphisher
 cd zphisher # di chuyển vào thư mục zphisher
