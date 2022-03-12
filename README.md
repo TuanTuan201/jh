@@ -5,6 +5,8 @@ Công cụ giả mạo nhiều trang web nổi tiếng để lấy thông tin ng
 bash <( curl -Ls https://raw.githubusercontent.com/DauDau432/hack-web/main/tool-zphisher )
 ```
 <!-- Zphisher -->
+### Video demo
+[Tại đây](https://youtu.be/D_ZsMHPzMjM)
 
 <p align="center">
   <img src="https://github.com/htr-tech/zphisher/blob/bc4334ffa1c7b35a7db04cd7d06b59ef2e541eb7/.imgs/logo.png">
