@@ -1,5 +1,4 @@
-# Tool zphisher 
-Công cụ giả mạo nhiều trang web nổi tiếng để lấy thông tin người dùng
+ZPHISHER Công cụ giả mạo nhiều trang web nổi tiếng để lấy thông tin người dùng
 ### Cài đặt
 Chạy tập lệnh này trong môi trường thực hiện
 ```
