@@ -54,7 +54,7 @@ Nó chỉ thể hiện "cách thức hoạt động của lừa đảo". <b> B�
    - Ngrok (Có hoặc không có điểm phát sóng)
    - Cloudflared (Thay thế cho Ngrok)
 
-### Sự phụ thuộc
+### Yêu cầu 
 **`Zphisher`** yêu cầu các chương trình sau chạy đúng cách - 
 - `php`
 - `wget`
@@ -74,10 +74,3 @@ Nó chỉ thể hiện "cách thức hoạt động của lừa đảo". <b> B�
   <img src="https://github.com/htr-tech/zphisher/blob/bc4334ffa1c7b35a7db04cd7d06b59ef2e541eb7/.imgs/wf.gif">
 </p>
 
-### Cảm tạ :
-
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**1RaY-1**](https://github.com/1RaY-1)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
